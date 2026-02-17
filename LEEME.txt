@@ -1,0 +1,1 @@
+El programa al ejecutarlo te pedirá un directorio a partir del cuál irá ejecutando sus funciones, es importante que ese directorio esté en la misma ruta desde donde se ejecuta la terminal. En este caso está hecho con dir, pero se puede realizar con cualquier otro directorio que usted cree para comprobar el funcionamiento del programa. 
